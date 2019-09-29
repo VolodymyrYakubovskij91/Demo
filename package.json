@@ -1,0 +1,17 @@
+{
+  "name": "les10",
+  "version": "1.0.0",
+  "description": "my first progect",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5",
+    "css",
+    "js"
+  ],
+  "author": "Volodumur",
+  "license": "ISC",
+  "devDependencies": {}
+}
